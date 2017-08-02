@@ -1,6 +1,10 @@
 .jumbotron {
-		background-color: #33cccc;
+		background-color: #000000;
+		margin-bottom: 0px;
 }
 .head-title {
 	color: #ffffff;
+}
+.carousel {
+
 }
